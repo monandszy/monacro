@@ -71,6 +71,7 @@
 - Make AggregateDelay modifiable (currently set to 200).
 - Better gui code management
 - Shared util function file
+- Loop Play
 
 ## How it came to be
 This is a heavy rewrite of a modification of a macro made by FeiYue, that I found some time ago on reddit (see Deprecated folder) I really liked the toolbar gui concept, some logger logic is also based on the original. This was my first real ahk project, I have somehow hammered the v1 in one week. The option guis are probably a bit overcomplicated, but hey, it works!
